@@ -12,7 +12,9 @@ Portions copyright © 2015 Sixense Entertainment, Inc. All rights reserved.
 
 Instructions:
 
-1) Download the Razer Hydra SDK Linux distribution from Sixence Official Web Page: http://sixense.com/linuxsdkdownload
+0) **[DEPRECATED]** Download the Razer Hydra SDK Linux distribution from Sixence Official Web Page: http://sixense.com/linuxsdkdownload
+
+1) Download the Razer Hydra SDK Linux distribution from https://github.com/r57zone/Razer-Hydra-SteamVR-driver/releases/download/1/SixenseSDK_102215.zip
 
 2) Follow the instructions from "README.txt" file in SDK root directory to install the dependences so the program works on Linux OS.
 
